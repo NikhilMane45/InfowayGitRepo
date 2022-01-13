@@ -3,7 +3,7 @@
   <groupId>org.example</groupId>
   <artifactId>Java-jenkins-in-docker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Java-jenkins-in-docker</name>
+  <name>Java-jenkins-in-docker=1</name>
   <dependencies>
 <!-- junit 5, unit test -->
 <dependency>
